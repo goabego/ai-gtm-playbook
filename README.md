@@ -6,13 +6,15 @@
 
 Welcome to my GTM guide for AI founders. Traditional playbooks weren't built for the speed and nuance of AI. This framework is your strategic co-pilot, designed to help you navigate the 25 primary GTM channels. It is my attempt to modernize the Traction framework devised by Gabriel Weinberg and Justin Mares in 2015. I also took from my experience as a Strategic Startups Customer Engineer at Google these last 5 years. 
 
-**Applying the Bullseye Framework:** This table isn't just a menu; it's a component of a dynamic process. The goal is to find your single most effective channel and focus on it. Think of this as an iterative process, just like product development. You are searching for *product-channel fit*.
+<b style="background-color: #eef7efff;">Bullseye Framework 101</b>
+This table isn't just a menu; it's a component of a dynamic process. The goal is to find your single most effective channel and focus on it. Think of this as an iterative process, just like product development. You are searching for *product-channel fit*.
 
 1.  **Step 1: Brainstorm (The Outer Ring):** Go through all 25 channels. Brainstorm at least one reasonable, concrete idea for how your startup could use each one. This prevents premature optimization and opens your mind to non-obvious possibilities.
 2.  **Step 2: Test (The Middle Ring):** Select your 3-5 most promising channels from your brainstorm. Run cheap, fast, and measurable tests on each one to get real-world data. Don't rely on gut feelings alone.
 3.  **Step 3: Focus (The Bullseye):** Identify the single channel from your tests that shows the most promise. This is your bullseye. Direct all your energy, resources, and creativity into optimizing this channel until you have saturated it.
 
-**How to Use This Playbook:** As a founder, your resources are finite. This guide is structured to mirror your decision-making process.
+<b style="background-color: #eef7efff;">How to Use This Playbook:</b>
+As a founder, your resources are finite. This guide is structured to mirror your decision-making process.
 1.  **Review the Table of Contents:** Get a high-level overview of the GTM categories and channels.
 2.  **Jump to a Category:** Use the links to navigate to a relevant section.
 3.  **Analyze Channels:** Within each category, review the individual channels. Use the filters (`Best For`, `Effort`, `Cost`) to prioritize what's relevant for you *right now*.
