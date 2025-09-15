@@ -18,6 +18,44 @@ Welcome to my GTM guide for AI founders. Traditional playbooks weren't built for
 3.  **Analyze Channels:** Within each category, review the individual channels. Use the filters (`Best For`, `Effort`, `Cost`) to prioritize what's relevant for you *right now*.
 4.  **Get Inspired:** Look at the `Examples` and the **`How They Used It`** blurb to see who is winning with each channel.
 
+---
+
+## Companies & Tools Featured
+<table>
+  <tr>
+    <td align="center"><img src="logos/perplexity.ai/perplexityai.png" width="120"></td>
+    <td align="center"><img src="logos/langchain.com/langchaincom.png" width="120"></td>
+    <td align="center"><img src="logos/robinhood.com/robinhoodcom.png" width="120"></td>
+    <td align="center"><img src="logos/together.ai/togetherai.png" width="120"></td>
+    <td align="center"><img src="logos/gamma.app/gammaapp.png" width="120"></td>
+    <td align="center"><img src="logos/jasper.ai/jasperai.png" width="120"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="logos/deepmind.google/deepmindgoogle.png" width="120"></td>
+    <td align="center"><img src="logos/blotato.com/blotatocom.jpg" width="120"></td>
+    <td align="center"><img src="logos/anthropic.com/anthropiccom.png" width="120"></td>
+    <td align="center"><img src="logos/bolt.new/boltnew.jpg" width="120"></td>
+    <td align="center"><img src="logos/writesonic.com/writesoniccom.png" width="120"></td>
+    <td align="center"><img src="logos/copy.ai/copyai.png" width="120"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="logos/glean.com/gleancom.png" width="120"></td>
+    <td align="center"><img src="logos/rewind.ai/rewindai.png" width="120"></td>
+    <td align="center"><img src="logos/beehiiv.com/beehiivcom.png" width="120"></td>
+    <td align="center"><img src="logos/pinecone.io/pineconeio.jpg" width="120"></td>
+    <td align="center"><img src="logos/runwayml.com/runwaymlcom.png" width="120"></td>
+    <td align="center"><img src="logos/mistral.ai/mistralai.png" width="120"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="logos/assemblyai.com/assemblyaicom.png" width="120"></td>
+    <td align="center"><img src="logos/ollama.com/ollamacom.png" width="120"></td>
+    <td align="center"><img src="logos/lu.ma/luma.png" width="120"></td>
+    <td align="center"><img src="logos/scale.com/scalecom.png" width="120"></td>
+    <td align="center"><img src="logos/groq.com/groqcom.png" width="120"></td>
+    <td align="center"><img src="logos/elevenlabs.io/elevenlabsio.png" width="120"></td>
+  </tr>
+</table>
+
 > **A Note on Frameworks:** This playbook is heavily inspired by the Bullseye Framework from Gabriel Weinberg and Justin Mares' seminal book, *Traction*. While their framework is a timeless starting point for any startup, this guide adapts and extends it specifically for the unique challenges and opportunities of building in the fast-paced world of AI. We've updated the channels and added an AI-specific lens to the strategies.
 
 ---
