@@ -1,4 +1,7 @@
 # The AI Founder's Go-to-Market Playbook
+
+![AI GTM Playbook Banner](logos/banner.png)
+
 ### Version 1.0 | Sept 2025
 
 Welcome to my GTM guide for AI founders. Traditional playbooks weren't built for the speed and nuance of AI. This framework is your strategic co-pilot, designed to help you navigate the 25 primary GTM channels. It is my attempt to modernize the Traction framework devised by Gabriel Weinberg and Justin Mares in 2015. I also took from my experience as a Strategic Startups Customer Engineer at Google these last 5 years. 
