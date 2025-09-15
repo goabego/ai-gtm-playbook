@@ -1,6 +1,6 @@
 # The AI Founder's Go-to-Market Playbook
 
-![AI GTM Playbook Banner](logos/banner.png)
+<img src="logos/banner.png" alt="AI GTM Playbook Banner" width="300">
 
 ### Version 1.0 | Sept 2025
 
